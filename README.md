@@ -4,7 +4,7 @@ I created a startpage with a navigationbar which has two dropdown options.
 
 I achieved that while giving the dropdown boxes display none and then gave them a class which has display block.
 
-This class gets toggled on with a javascirpt when you click on the navigationbar element.
+This class gets toggled on with Javascript when you click on the navigationbar element.
 
 
 
